@@ -1,2 +1,2 @@
 # mohiniruhela.github.io
-A portfolio showcasing data analysis and visualization projects, highlighting key skills and impactful data-driven insights .
+👋 Welcome to my <i>portfolio</i>, where I showcase my <i>data analysis</i> and <i>visualization</i> projects and highlight my skills and insights! 📊✨
